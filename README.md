@@ -94,3 +94,14 @@ Database: MySQL / MariaDB
 
 
 <img width="607" height="795" alt="Flowchart LelangID" src="https://github.com/user-attachments/assets/0d2b6bd2-08fa-4f76-9769-ab0f7e69eb3b" />
+
+
+
+**UseCase Diagram**
+
+
+
+<img width="514" height="675" alt="Usecase LelangID" src="https://github.com/user-attachments/assets/d8a2224e-2e54-4ad7-a91b-9910b599db27" />
+
+
+
