@@ -5,37 +5,37 @@ Tujuan aplikasi ini adalah menyediakan platform agar penjual dapat membuat lelan
 -------------------------------------------------------------------------------------------
 **🎯 Fitur Utama**
 
-Manajemen Pengguna
+**Manajemen Pengguna**
 
-Login & Registrasi akun.
+- Login & Registrasi akun.
 
-Role: Penjual & Pembeli.
+- Role: Penjual & Pembeli.
 
-Manajemen Lelang
+**Manajemen Lelang**
 
-Penjual dapat menambah, mengedit, atau menghapus lelang.
+- Penjual dapat menambah, mengedit, atau menghapus lelang.
 
-Upload gambar barang.
+- Upload gambar barang.
 
-Menentukan harga awal dan jadwal mulai/berakhir lelang.
+- Menentukan harga awal dan jadwal mulai/berakhir lelang.
 
-Sistem Bidding
+**Sistem Bidding**
 
-Pembeli bisa memberikan penawaran harga.
+- Pembeli bisa memberikan penawaran harga.
 
-Riwayat penawaran tersimpan.
+- Riwayat penawaran tersimpan.
 
-Sistem memperbarui penawaran tertinggi secara real-time (sederhana).
+- Sistem memperbarui penawaran tertinggi secara real-time (sederhana).
 
-Penentuan Pemenang
+**Penentuan Pemenang**
 
-Lelang otomatis ditutup sesuai jadwal.
+- Lelang otomatis ditutup sesuai jadwal.
 
-Pemenang ditentukan berdasarkan penawar dengan harga tertinggi.
+- Pemenang ditentukan berdasarkan penawar dengan harga tertinggi.
 
 Dashboard
 
-Penjual: Melihat daftar lelang dan penawaran yang masuk.
+**Penjual: Melihat daftar lelang dan penawaran yang masuk.**
 
 Pembeli: Melihat lelang yang diikuti serta hasilnya.
 -------------------------------------------------------------------------------------------
