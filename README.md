@@ -41,7 +41,7 @@ Pembeli: Melihat lelang yang diikuti serta hasilnya.
 -------------------------------------------------------------------------------------------
 **👥 Jenis Pengguna & Hak Akses**
 
-Penjual
+**Penjual**
 
 Membuat dan mengelola lelang barang.
 
@@ -49,7 +49,7 @@ Mengunggah foto dan menentukan harga awal serta durasi lelang.
 
 Melihat penawaran dari pembeli.
 
-Pembeli
+**Pembeli**
 
 Melihat daftar lelang yang tersedia.
 
@@ -64,3 +64,6 @@ Frontend: HTML, CSS, JavaScript, Bootstrap 5
 Backend: PHP Native
 
 Database: MySQL / MariaDB
+
+**Diagram Activity**
+<img width="732" height="802" alt="Diagram Activity 2" src="https://github.com/user-attachments/assets/53a8db46-9f3f-4cee-baaf-aa32dc4cc628" />
