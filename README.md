@@ -66,10 +66,12 @@ Backend: PHP Native
 Database: MySQL / MariaDB
 
 
+
 **Diagram Activity**
 
 
 <img width="732" height="802" alt="Diagram Activity 2" src="https://github.com/user-attachments/assets/53a8db46-9f3f-4cee-baaf-aa32dc4cc628" />
+
 
 
 **Tampilan Balsamic LelangID**
@@ -79,10 +81,12 @@ Database: MySQL / MariaDB
 
 
 
+
 **DB Diagram**
 
 
 <img width="1235" height="798" alt="DBdiagramLelangID" src="https://github.com/user-attachments/assets/34aa6d1b-02a0-4532-8e4b-7c7e708f60a0" />
+
 
 
 
