@@ -67,14 +67,14 @@ Database: MySQL / MariaDB
 
 
 
-## **Diagram Activity**
+### **Diagram Activity**
 
 
 <img width="732" height="802" alt="Diagram Activity 2" src="https://github.com/user-attachments/assets/53a8db46-9f3f-4cee-baaf-aa32dc4cc628" />
 
 
 
-**Tampilan Balsamic LelangID**
+### **Tampilan Balsamic LelangID**
 
 
 <img width="1385" height="729" alt="Balsamic LelangID (2)" src="https://github.com/user-attachments/assets/0fed4bf7-003a-44e6-ba0a-f1d35f556528" />
@@ -82,7 +82,7 @@ Database: MySQL / MariaDB
 
 
 
-**DB Diagram**
+### **DB Diagram**
 
 
 <img width="1235" height="798" alt="DBdiagramLelangID" src="https://github.com/user-attachments/assets/34aa6d1b-02a0-4532-8e4b-7c7e708f60a0" />
@@ -90,14 +90,14 @@ Database: MySQL / MariaDB
 
 
 
-**Flowchart LelangID**
+### **Flowchart LelangID**
 
 
 <img width="607" height="795" alt="Flowchart LelangID" src="https://github.com/user-attachments/assets/0d2b6bd2-08fa-4f76-9769-ab0f7e69eb3b" />
 
 
 
-**UseCase Diagram**
+### **UseCase Diagram**
 
 
 
