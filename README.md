@@ -38,7 +38,7 @@ Tujuan aplikasi ini adalah menyediakan platform agar penjual dapat membuat lelan
 **Penjual: Melihat daftar lelang dan penawaran yang masuk.**
 
 **Pembeli: Melihat lelang yang diikuti serta hasilnya.**
--------------------------------------------------------------------------------------------
+
 ## **Jenis Pengguna & Hak Akses**
 
 # **Penjual**
