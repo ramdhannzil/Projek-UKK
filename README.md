@@ -1,9 +1,9 @@
-**🛒 Aplikasi Lelang Barang**
+**Aplikasi Lelang Barang**
 
 Aplikasi lelang barang berbasis PHP Native dengan sistem sederhana namun tetap fungsional.
 Tujuan aplikasi ini adalah menyediakan platform agar penjual dapat membuat lelang, pembeli dapat memberikan penawaran (bid), dan sistem otomatis menentukan pemenang setelah lelang berakhir.
 -------------------------------------------------------------------------------------------
-**🎯 Fitur Utama**
+**Fitur Utama**
 
 **Manajemen Pengguna**
 
@@ -39,7 +39,7 @@ Dashboard
 
 Pembeli: Melihat lelang yang diikuti serta hasilnya.
 -------------------------------------------------------------------------------------------
-**👥 Jenis Pengguna & Hak Akses**
+**Jenis Pengguna & Hak Akses**
 
 **Penjual**
 
@@ -57,7 +57,7 @@ Mengikuti lelang dengan memberikan penawaran harga.
 
 Melihat riwayat dan hasil lelang yang diikuti.
 -------------------------------------------------------------------------------------------
-**🛠 Teknologi yang Digunakan**
+**Teknologi yang Digunakan**
 
 Frontend: HTML, CSS, JavaScript, Bootstrap 5
 
@@ -67,7 +67,7 @@ Database: MySQL / MariaDB
 
 
 
-**Diagram Activity**
+#**Diagram Activity**
 
 
 <img width="732" height="802" alt="Diagram Activity 2" src="https://github.com/user-attachments/assets/53a8db46-9f3f-4cee-baaf-aa32dc4cc628" />
