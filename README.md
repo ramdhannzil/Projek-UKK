@@ -35,9 +35,9 @@ Tujuan aplikasi ini adalah menyediakan platform agar penjual dapat membuat lelan
 
 ## Dashboard
 
-# **Penjual: Melihat daftar lelang dan penawaran yang masuk.**
+**Penjual: Melihat daftar lelang dan penawaran yang masuk.**
 
-# Pembeli: Melihat lelang yang diikuti serta hasilnya.
+**Pembeli: Melihat lelang yang diikuti serta hasilnya.**
 -------------------------------------------------------------------------------------------
 ## **Jenis Pengguna & Hak Akses**
 
@@ -55,7 +55,8 @@ Melihat daftar lelang yang tersedia.
 
 Mengikuti lelang dengan memberikan penawaran harga.
 
-Melihat riwayat dan hasil lelang yang diikuti.
+Melihat riwayat dan hasil lelang yang diikuti
+
 -------------------------------------------------------------------------------------------
 # **Teknologi yang Digunakan**
 
